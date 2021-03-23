@@ -1,0 +1,30 @@
+.container-fluid {
+    position: fixed;
+    top: 0;
+     height: 46px; 
+     width: 100%;
+     background-color: #BEBEBE;
+    /*top: 0;
+    right: 0;
+    left: 0;
+    /* height: 40px; */
+    /* width: 100%;  */
+}
+
+.nav-item {
+    font-weight: 600;
+}
+
+.nav-item:hover .dropdown-menu {
+   display: block;
+}
+
+.navbar-nav .dropdown-menu {
+   display: none;
+}
+
+.akatsuki {
+    width: 100%;
+    
+}
+
